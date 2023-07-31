@@ -1,0 +1,421 @@
+Rk,League,Team,Pts,P,W,D,L,GF,GA,GD,Year_End
+1,Premier League,Manchester Utd,83,38,25,8,5,74,34,40,2003
+2,Premier League,Arsenal,78,38,23,9,6,85,42,43,2003
+3,Premier League,Newcastle Utd,69,38,21,6,11,63,48,15,2003
+4,Premier League,Chelsea,67,38,19,10,9,68,38,30,2003
+5,Premier League,Liverpool,64,38,18,10,10,61,41,20,2003
+6,Premier League,Blackburn,60,38,16,12,10,52,43,9,2003
+7,Premier League,Everton,59,38,17,8,13,48,49,-1,2003
+8,Premier League,Southampton,52,38,13,13,12,43,46,-3,2003
+9,Premier League,Manchester City,51,38,15,6,17,47,54,-7,2003
+10,Premier League,Tottenham,50,38,14,8,16,51,62,-11,2003
+11,Premier League,Middlesbrough,49,38,13,10,15,48,44,4,2003
+12,Premier League,Charlton Ath,49,38,14,7,17,45,56,-11,2003
+13,Premier League,Birmingham City,48,38,13,9,16,41,49,-8,2003
+14,Premier League,Fulham,48,38,13,9,16,41,50,-9,2003
+15,Premier League,Leeds United,47,38,14,5,19,58,57,1,2003
+16,Premier League,Aston Villa,45,38,12,9,17,42,47,-5,2003
+17,Premier League,Bolton,44,38,10,14,14,41,51,-10,2003
+18,Premier League,West Ham,42,38,10,12,16,42,59,-17,2003
+19,Premier League,West Brom,26,38,6,8,24,29,65,-36,2003
+20,Premier League,Sunderland,19,38,4,7,27,21,65,-44,2003
+1,Premier League,Arsenal,90,38,26,12,0,73,26,47,2004
+2,Premier League,Chelsea,79,38,24,7,7,67,30,37,2004
+3,Premier League,Manchester Utd,75,38,23,6,9,64,35,29,2004
+4,Premier League,Liverpool,60,38,16,12,10,55,37,18,2004
+5,Premier League,Newcastle Utd,56,38,13,17,8,52,40,12,2004
+6,Premier League,Aston Villa,56,38,15,11,12,48,44,4,2004
+7,Premier League,Charlton Ath,53,38,14,11,13,51,51,0,2004
+8,Premier League,Bolton,53,38,14,11,13,48,56,-8,2004
+9,Premier League,Fulham,52,38,14,10,14,52,46,6,2004
+10,Premier League,Birmingham City,50,38,12,14,12,43,48,-5,2004
+11,Premier League,Middlesbrough,48,38,13,9,16,44,52,-8,2004
+12,Premier League,Southampton,47,38,12,11,15,44,45,-1,2004
+13,Premier League,Portsmouth,45,38,12,9,17,47,54,-7,2004
+14,Premier League,Tottenham,45,38,13,6,19,47,57,-10,2004
+15,Premier League,Blackburn,44,38,12,8,18,51,59,-8,2004
+16,Premier League,Manchester City,41,38,9,14,15,55,54,1,2004
+17,Premier League,Everton,39,38,9,12,17,45,57,-12,2004
+18,Premier League,Leicester City,33,38,6,15,17,48,65,-17,2004
+19,Premier League,Leeds United,33,38,8,9,21,40,79,-39,2004
+20,Premier League,Wolves,33,38,7,12,19,38,77,-39,2004
+1,Premier League,Chelsea,95,38,29,8,1,72,15,57,2005
+2,Premier League,Arsenal,83,38,25,8,5,87,36,51,2005
+3,Premier League,Manchester Utd,77,38,22,11,5,58,26,32,2005
+4,Premier League,Everton,61,38,18,7,13,45,46,-1,2005
+5,Premier League,Liverpool,58,38,17,7,14,52,41,11,2005
+6,Premier League,Bolton,58,38,16,10,12,49,44,5,2005
+7,Premier League,Middlesbrough,55,38,14,13,11,53,46,7,2005
+8,Premier League,Manchester City,52,38,13,13,12,47,39,8,2005
+9,Premier League,Tottenham,52,38,14,10,14,47,41,6,2005
+10,Premier League,Aston Villa,47,38,12,11,15,45,52,-7,2005
+11,Premier League,Charlton Ath,46,38,12,10,16,42,58,-16,2005
+12,Premier League,Birmingham City,45,38,11,12,15,40,46,-6,2005
+13,Premier League,Fulham,44,38,12,8,18,52,60,-8,2005
+14,Premier League,Newcastle Utd,44,38,10,14,14,47,57,-10,2005
+15,Premier League,Blackburn,42,38,9,15,14,32,43,-11,2005
+16,Premier League,Portsmouth,39,38,10,9,19,43,59,-16,2005
+17,Premier League,West Brom,34,38,6,16,16,36,61,-25,2005
+18,Premier League,Crystal Palace,33,38,7,12,19,41,62,-21,2005
+19,Premier League,Norwich City,33,38,7,12,19,42,77,-35,2005
+20,Premier League,Southampton,32,38,6,14,18,45,66,-21,2005
+1,Premier League,Chelsea,91,38,29,4,5,72,22,50,2006
+2,Premier League,Manchester Utd,83,38,25,8,5,72,34,38,2006
+3,Premier League,Liverpool,82,38,25,7,6,57,25,32,2006
+4,Premier League,Arsenal,67,38,20,7,11,68,31,37,2006
+5,Premier League,Tottenham,65,38,18,11,9,53,38,15,2006
+6,Premier League,Blackburn,63,38,19,6,13,51,42,9,2006
+7,Premier League,Newcastle Utd,58,38,17,7,14,47,42,5,2006
+8,Premier League,Bolton,56,38,15,11,12,49,41,8,2006
+9,Premier League,West Ham,55,38,16,7,15,52,55,-3,2006
+10,Premier League,Wigan Athletic,51,38,15,6,17,45,52,-7,2006
+11,Premier League,Everton,50,38,14,8,16,34,49,-15,2006
+12,Premier League,Fulham,48,38,14,6,18,48,58,-10,2006
+13,Premier League,Charlton Ath,47,38,13,8,17,41,55,-14,2006
+14,Premier League,Middlesbrough,45,38,12,9,17,48,58,-10,2006
+15,Premier League,Manchester City,43,38,13,4,21,43,48,-5,2006
+16,Premier League,Aston Villa,42,38,10,12,16,42,55,-13,2006
+17,Premier League,Portsmouth,38,38,10,8,20,37,62,-25,2006
+18,Premier League,Birmingham City,34,38,8,10,20,28,50,-22,2006
+19,Premier League,West Brom,30,38,7,9,22,31,58,-27,2006
+20,Premier League,Sunderland,15,38,3,6,29,26,69,-43,2006
+1,Premier League,Manchester Utd,89,38,28,5,5,83,27,56,2007
+2,Premier League,Chelsea,83,38,24,11,3,64,24,40,2007
+3,Premier League,Liverpool,68,38,20,8,10,57,27,30,2007
+4,Premier League,Arsenal,68,38,19,11,8,63,35,28,2007
+5,Premier League,Tottenham,60,38,17,9,12,57,54,3,2007
+6,Premier League,Everton,58,38,15,13,10,52,36,16,2007
+7,Premier League,Bolton,56,38,16,8,14,47,52,-5,2007
+8,Premier League,Reading,55,38,16,7,15,52,47,5,2007
+9,Premier League,Portsmouth,54,38,14,12,12,45,42,3,2007
+10,Premier League,Blackburn,52,38,15,7,16,52,54,-2,2007
+11,Premier League,Aston Villa,50,38,11,17,10,43,41,2,2007
+12,Premier League,Middlesbrough,46,38,12,10,16,44,49,-5,2007
+13,Premier League,Newcastle Utd,43,38,11,10,17,38,47,-9,2007
+14,Premier League,Manchester City,42,38,11,9,18,29,44,-15,2007
+15,Premier League,West Ham,41,38,12,5,21,35,59,-24,2007
+16,Premier League,Fulham,39,38,8,15,15,38,60,-22,2007
+17,Premier League,Wigan Athletic,38,38,10,8,20,37,59,-22,2007
+18,Premier League,Sheffield Utd,38,38,10,8,20,32,55,-23,2007
+19,Premier League,Charlton Ath,34,38,8,10,20,34,60,-26,2007
+20,Premier League,Watford,28,38,5,13,20,29,59,-30,2007
+1,Premier League,Manchester Utd,87,38,27,6,5,80,22,58,2008
+2,Premier League,Chelsea,85,38,25,10,3,65,26,39,2008
+3,Premier League,Arsenal,83,38,24,11,3,74,31,43,2008
+4,Premier League,Liverpool,76,38,21,13,4,67,28,39,2008
+5,Premier League,Everton,65,38,19,8,11,55,33,22,2008
+6,Premier League,Aston Villa,60,38,16,12,10,71,51,20,2008
+7,Premier League,Blackburn,58,38,15,13,10,50,48,2,2008
+8,Premier League,Portsmouth,57,38,16,9,13,48,40,8,2008
+9,Premier League,Manchester City,55,38,15,10,13,45,53,-8,2008
+10,Premier League,West Ham,49,38,13,10,15,42,50,-8,2008
+11,Premier League,Tottenham,46,38,11,13,14,66,61,5,2008
+12,Premier League,Newcastle Utd,43,38,11,10,17,45,65,-20,2008
+13,Premier League,Middlesbrough,42,38,10,12,16,43,53,-10,2008
+14,Premier League,Wigan Athletic,40,38,10,10,18,34,51,-17,2008
+15,Premier League,Sunderland,39,38,11,6,21,36,59,-23,2008
+16,Premier League,Bolton,37,38,9,10,19,36,54,-18,2008
+17,Premier League,Fulham,36,38,8,12,18,38,60,-22,2008
+18,Premier League,Reading,36,38,10,6,22,41,66,-25,2008
+19,Premier League,Birmingham City,35,38,8,11,19,46,62,-16,2008
+20,Premier League,Derby County,11,38,1,8,29,20,89,-69,2008
+1,Premier League,Manchester Utd,90,38,28,6,4,68,24,44,2009
+2,Premier League,Liverpool,86,38,25,11,2,77,27,50,2009
+3,Premier League,Chelsea,83,38,25,8,5,68,24,44,2009
+4,Premier League,Arsenal,72,38,20,12,6,68,37,31,2009
+5,Premier League,Everton,63,38,17,12,9,55,37,18,2009
+6,Premier League,Aston Villa,62,38,17,11,10,54,48,6,2009
+7,Premier League,Fulham,53,38,14,11,13,39,34,5,2009
+8,Premier League,Tottenham,51,38,14,9,15,45,45,0,2009
+9,Premier League,West Ham,51,38,14,9,15,42,45,-3,2009
+10,Premier League,Manchester City,50,38,15,5,18,58,50,8,2009
+11,Premier League,Wigan Athletic,45,38,12,9,17,34,45,-11,2009
+12,Premier League,Stoke City,45,38,12,9,17,38,55,-17,2009
+13,Premier League,Bolton,41,38,11,8,19,41,53,-12,2009
+14,Premier League,Portsmouth,41,38,10,11,17,38,57,-19,2009
+15,Premier League,Blackburn,41,38,10,11,17,40,60,-20,2009
+16,Premier League,Sunderland,36,38,9,9,20,34,54,-20,2009
+17,Premier League,Hull City,35,38,8,11,19,39,64,-25,2009
+18,Premier League,Newcastle Utd,34,38,7,13,18,40,59,-19,2009
+19,Premier League,Middlesbrough,32,38,7,11,20,28,57,-29,2009
+20,Premier League,West Brom,32,38,8,8,22,36,67,-31,2009
+1,Premier League,Chelsea,86,38,27,5,6,103,32,71,2010
+2,Premier League,Manchester Utd,85,38,27,4,7,86,28,58,2010
+3,Premier League,Arsenal,75,38,23,6,9,83,41,42,2010
+4,Premier League,Tottenham,70,38,21,7,10,67,41,26,2010
+5,Premier League,Manchester City,67,38,18,13,7,73,45,28,2010
+6,Premier League,Aston Villa,64,38,17,13,8,52,39,13,2010
+7,Premier League,Liverpool,63,38,18,9,11,61,35,26,2010
+8,Premier League,Everton,61,38,16,13,9,60,49,11,2010
+9,Premier League,Birmingham City,50,38,13,11,14,38,47,-9,2010
+10,Premier League,Blackburn,50,38,13,11,14,41,55,-14,2010
+11,Premier League,Stoke City,47,38,11,14,13,34,48,-14,2010
+12,Premier League,Fulham,46,38,12,10,16,39,46,-7,2010
+13,Premier League,Sunderland,44,38,11,11,16,48,56,-8,2010
+14,Premier League,Bolton,39,38,10,9,19,42,67,-25,2010
+15,Premier League,Wolves,38,38,9,11,18,32,56,-24,2010
+16,Premier League,Wigan Athletic,36,38,9,9,20,37,79,-42,2010
+17,Premier League,West Ham,35,38,8,11,19,47,66,-19,2010
+18,Premier League,Burnley,30,38,8,6,24,42,82,-40,2010
+19,Premier League,Hull City,30,38,6,12,20,34,75,-41,2010
+20,Premier League,Portsmouth,19,38,7,7,24,34,66,-32,2010
+1,Premier League,Manchester Utd,80,38,23,11,4,78,37,41,2011
+2,Premier League,Chelsea,71,38,21,8,9,69,33,36,2011
+3,Premier League,Manchester City,71,38,21,8,9,60,33,27,2011
+4,Premier League,Arsenal,68,38,19,11,8,72,43,29,2011
+5,Premier League,Tottenham,62,38,16,14,8,55,46,9,2011
+6,Premier League,Liverpool,58,38,17,7,14,59,44,15,2011
+7,Premier League,Everton,54,38,13,15,10,51,45,6,2011
+8,Premier League,Fulham,49,38,11,16,11,49,43,6,2011
+9,Premier League,Aston Villa,48,38,12,12,14,48,59,-11,2011
+10,Premier League,Sunderland,47,38,12,11,15,45,56,-11,2011
+11,Premier League,West Brom,47,38,12,11,15,56,71,-15,2011
+12,Premier League,Newcastle Utd,46,38,11,13,14,56,57,-1,2011
+13,Premier League,Stoke City,46,38,13,7,18,46,48,-2,2011
+14,Premier League,Bolton,46,38,12,10,16,52,56,-4,2011
+15,Premier League,Blackburn,43,38,11,10,17,46,59,-13,2011
+16,Premier League,Wigan Athletic,42,38,9,15,14,40,61,-21,2011
+17,Premier League,Wolves,40,38,11,7,20,46,66,-20,2011
+18,Premier League,Birmingham City,39,38,8,15,15,37,58,-21,2011
+19,Premier League,Blackpool,39,38,10,9,19,55,78,-23,2011
+20,Premier League,West Ham,33,38,7,12,19,43,70,-27,2011
+1,Premier League,Manchester City,89,38,28,5,5,93,29,64,2012
+2,Premier League,Manchester Utd,89,38,28,5,5,89,33,56,2012
+3,Premier League,Arsenal,70,38,21,7,10,74,49,25,2012
+4,Premier League,Tottenham,69,38,20,9,9,66,41,25,2012
+5,Premier League,Newcastle Utd,65,38,19,8,11,56,51,5,2012
+6,Premier League,Chelsea,64,38,18,10,10,65,46,19,2012
+7,Premier League,Everton,56,38,15,11,12,50,40,10,2012
+8,Premier League,Liverpool,52,38,14,10,14,47,40,7,2012
+9,Premier League,Fulham,52,38,14,10,14,48,51,-3,2012
+10,Premier League,West Brom,47,38,13,8,17,45,52,-7,2012
+11,Premier League,Swansea City,47,38,12,11,15,44,51,-7,2012
+12,Premier League,Norwich City,47,38,12,11,15,52,66,-14,2012
+13,Premier League,Sunderland,45,38,11,12,15,45,46,-1,2012
+14,Premier League,Stoke City,45,38,11,12,15,36,53,-17,2012
+15,Premier League,Wigan Athletic,43,38,11,10,17,42,62,-20,2012
+16,Premier League,Aston Villa,38,38,7,17,14,37,53,-16,2012
+17,Premier League,QPR,37,38,10,7,21,43,66,-23,2012
+18,Premier League,Bolton,36,38,10,6,22,46,77,-31,2012
+19,Premier League,Blackburn,31,38,8,7,23,48,78,-30,2012
+20,Premier League,Wolves,25,38,5,10,23,40,82,-42,2012
+1,Premier League,Manchester Utd,89,38,28,5,5,86,43,43,2013
+2,Premier League,Manchester City,78,38,23,9,6,66,34,32,2013
+3,Premier League,Chelsea,75,38,22,9,7,75,39,36,2013
+4,Premier League,Arsenal,73,38,21,10,7,72,37,35,2013
+5,Premier League,Tottenham,72,38,21,9,8,66,46,20,2013
+6,Premier League,Everton,63,38,16,15,7,55,40,15,2013
+7,Premier League,Liverpool,61,38,16,13,9,71,43,28,2013
+8,Premier League,West Brom,49,38,14,7,17,53,57,-4,2013
+9,Premier League,Swansea City,46,38,11,13,14,47,51,-4,2013
+10,Premier League,West Ham,46,38,12,10,16,45,53,-8,2013
+11,Premier League,Norwich City,44,38,10,14,14,41,58,-17,2013
+12,Premier League,Fulham,43,38,11,10,17,50,60,-10,2013
+13,Premier League,Stoke City,42,38,9,15,14,34,45,-11,2013
+14,Premier League,Southampton,41,38,9,14,15,49,60,-11,2013
+15,Premier League,Aston Villa,41,38,10,11,17,47,69,-22,2013
+16,Premier League,Newcastle Utd,41,38,11,8,19,45,68,-23,2013
+17,Premier League,Sunderland,39,38,9,12,17,41,54,-13,2013
+18,Premier League,Wigan Athletic,36,38,9,9,20,47,73,-26,2013
+19,Premier League,Reading,28,38,6,10,22,43,73,-30,2013
+20,Premier League,QPR,25,38,4,13,21,30,60,-30,2013
+1,Premier League,Manchester City,86,38,27,5,6,102,37,65,2014
+2,Premier League,Liverpool,84,38,26,6,6,101,50,51,2014
+3,Premier League,Chelsea,82,38,25,7,6,71,27,44,2014
+4,Premier League,Arsenal,79,38,24,7,7,68,41,27,2014
+5,Premier League,Everton,72,38,21,9,8,61,39,22,2014
+6,Premier League,Tottenham,69,38,21,6,11,55,51,4,2014
+7,Premier League,Manchester Utd,64,38,19,7,12,64,43,21,2014
+8,Premier League,Southampton,56,38,15,11,12,54,46,8,2014
+9,Premier League,Stoke City,50,38,13,11,14,45,52,-7,2014
+10,Premier League,Newcastle Utd,49,38,15,4,19,43,59,-16,2014
+11,Premier League,Crystal Palace,45,38,13,6,19,33,48,-15,2014
+12,Premier League,Swansea City,42,38,11,9,18,54,54,0,2014
+13,Premier League,West Ham,40,38,11,7,20,40,51,-11,2014
+14,Premier League,Sunderland,38,38,10,8,20,41,60,-19,2014
+15,Premier League,Aston Villa,38,38,10,8,20,39,61,-22,2014
+16,Premier League,Hull City,37,38,10,7,21,38,53,-15,2014
+17,Premier League,West Brom,36,38,7,15,16,43,59,-16,2014
+18,Premier League,Norwich City,33,38,8,9,21,28,62,-34,2014
+19,Premier League,Fulham,32,38,9,5,24,40,85,-45,2014
+20,Premier League,Cardiff City,30,38,7,9,22,32,74,-42,2014
+1,Premier League,Chelsea,87,38,26,9,3,73,32,41,2015
+2,Premier League,Manchester City,79,38,24,7,7,83,38,45,2015
+3,Premier League,Arsenal,75,38,22,9,7,71,36,35,2015
+4,Premier League,Manchester Utd,70,38,20,10,8,62,37,25,2015
+5,Premier League,Tottenham,64,38,19,7,12,58,53,5,2015
+6,Premier League,Liverpool,62,38,18,8,12,52,48,4,2015
+7,Premier League,Southampton,60,38,18,6,14,54,33,21,2015
+8,Premier League,Swansea City,56,38,16,8,14,46,49,-3,2015
+9,Premier League,Stoke City,54,38,15,9,14,48,45,3,2015
+10,Premier League,Crystal Palace,48,38,13,9,16,47,51,-4,2015
+11,Premier League,Everton,47,38,12,11,15,48,50,-2,2015
+12,Premier League,West Ham,47,38,12,11,15,44,47,-3,2015
+13,Premier League,West Brom,44,38,11,11,16,38,51,-13,2015
+14,Premier League,Leicester City,41,38,11,8,19,46,55,-9,2015
+15,Premier League,Newcastle Utd,39,38,10,9,19,40,63,-23,2015
+16,Premier League,Sunderland,38,38,7,17,14,31,53,-22,2015
+17,Premier League,Aston Villa,38,38,10,8,20,31,57,-26,2015
+18,Premier League,Hull City,35,38,8,11,19,33,51,-18,2015
+19,Premier League,Burnley,33,38,7,12,19,28,53,-25,2015
+20,Premier League,QPR,30,38,8,6,24,42,73,-31,2015
+1,Premier League,Leicester City,81,38,23,12,3,68,36,32,2016
+2,Premier League,Arsenal,71,38,20,11,7,65,36,29,2016
+3,Premier League,Tottenham,70,38,19,13,6,69,35,34,2016
+4,Premier League,Manchester City,66,38,19,9,10,71,41,30,2016
+5,Premier League,Manchester Utd,66,38,19,9,10,49,35,14,2016
+6,Premier League,Southampton,63,38,18,9,11,59,41,18,2016
+7,Premier League,West Ham,62,38,16,14,8,65,51,14,2016
+8,Premier League,Liverpool,60,38,16,12,10,63,50,13,2016
+9,Premier League,Stoke City,51,38,14,9,15,41,55,-14,2016
+10,Premier League,Chelsea,50,38,12,14,12,59,53,6,2016
+11,Premier League,Everton,47,38,11,14,13,59,55,4,2016
+12,Premier League,Swansea City,47,38,12,11,15,42,52,-10,2016
+13,Premier League,Watford,45,38,12,9,17,40,50,-10,2016
+14,Premier League,West Brom,43,38,10,13,15,34,48,-14,2016
+15,Premier League,Crystal Palace,42,38,11,9,18,39,51,-12,2016
+16,Premier League,Bournemouth,42,38,11,9,18,45,67,-22,2016
+17,Premier League,Sunderland,39,38,9,12,17,48,62,-14,2016
+18,Premier League,Newcastle Utd,37,38,9,10,19,44,65,-21,2016
+19,Premier League,Norwich City,34,38,9,7,22,39,67,-28,2016
+20,Premier League,Aston Villa,17,38,3,8,27,27,76,-49,2016
+1,Premier League,Chelsea,93,38,30,3,5,85,33,52,2017
+2,Premier League,Tottenham,86,38,26,8,4,86,26,60,2017
+3,Premier League,Manchester City,78,38,23,9,6,80,39,41,2017
+4,Premier League,Liverpool,76,38,22,10,6,78,42,36,2017
+5,Premier League,Arsenal,75,38,23,6,9,77,44,33,2017
+6,Premier League,Manchester Utd,69,38,18,15,5,54,29,25,2017
+7,Premier League,Everton,61,38,17,10,11,62,44,18,2017
+8,Premier League,Southampton,46,38,12,10,16,41,48,-7,2017
+9,Premier League,Bournemouth,46,38,12,10,16,55,67,-12,2017
+10,Premier League,West Brom,45,38,12,9,17,43,51,-8,2017
+11,Premier League,West Ham,45,38,12,9,17,47,64,-17,2017
+12,Premier League,Leicester City,44,38,12,8,18,48,63,-15,2017
+13,Premier League,Stoke City,44,38,11,11,16,41,56,-15,2017
+14,Premier League,Crystal Palace,41,38,12,5,21,50,63,-13,2017
+15,Premier League,Swansea City,41,38,12,5,21,45,70,-25,2017
+16,Premier League,Burnley,40,38,11,7,20,39,55,-16,2017
+17,Premier League,Watford,40,38,11,7,20,40,68,-28,2017
+18,Premier League,Hull City,34,38,9,7,22,37,80,-43,2017
+19,Premier League,Middlesbrough,28,38,5,13,20,27,53,-26,2017
+20,Premier League,Sunderland,24,38,6,6,26,29,69,-40,2017
+1,Premier League,Manchester City,100,38,32,4,2,106,27,79,2018
+2,Premier League,Manchester Utd,81,38,25,6,7,68,28,40,2018
+3,Premier League,Tottenham,77,38,23,8,7,74,36,38,2018
+4,Premier League,Liverpool,75,38,21,12,5,84,38,46,2018
+5,Premier League,Chelsea,70,38,21,7,10,62,38,24,2018
+6,Premier League,Arsenal,63,38,19,6,13,74,51,23,2018
+7,Premier League,Burnley,54,38,14,12,12,36,39,-3,2018
+8,Premier League,Everton,49,38,13,10,15,44,58,-14,2018
+9,Premier League,Leicester City,47,38,12,11,15,56,60,-4,2018
+10,Premier League,Newcastle Utd,44,38,12,8,18,39,47,-8,2018
+11,Premier League,Crystal Palace,44,38,11,11,16,45,55,-10,2018
+12,Premier League,Bournemouth,44,38,11,11,16,45,61,-16,2018
+13,Premier League,West Ham,42,38,10,12,16,48,68,-20,2018
+14,Premier League,Watford,41,38,11,8,19,44,64,-20,2018
+15,Premier League,Brighton,40,38,9,13,16,34,54,-20,2018
+16,Premier League,Huddersfield,37,38,9,10,19,28,58,-30,2018
+17,Premier League,Southampton,36,38,7,15,16,37,56,-19,2018
+18,Premier League,Swansea City,33,38,8,9,21,28,56,-28,2018
+19,Premier League,Stoke City,33,38,7,12,19,35,68,-33,2018
+20,Premier League,West Brom,31,38,6,13,19,31,56,-25,2018
+1,Premier League,Manchester City,98,38,32,2,4,95,23,72,2019
+2,Premier League,Liverpool,97,38,30,7,1,89,22,67,2019
+3,Premier League,Chelsea,72,38,21,9,8,63,39,24,2019
+4,Premier League,Tottenham,71,38,23,2,13,67,39,28,2019
+5,Premier League,Arsenal,70,38,21,7,10,73,51,22,2019
+6,Premier League,Manchester Utd,66,38,19,9,10,65,54,11,2019
+7,Premier League,Wolves,57,38,16,9,13,47,46,1,2019
+8,Premier League,Everton,54,38,15,9,14,54,46,8,2019
+9,Premier League,Leicester City,52,38,15,7,16,51,48,3,2019
+10,Premier League,West Ham,52,38,15,7,16,52,55,-3,2019
+11,Premier League,Watford,50,38,14,8,16,52,59,-7,2019
+12,Premier League,Crystal Palace,49,38,14,7,17,51,53,-2,2019
+13,Premier League,Newcastle Utd,45,38,12,9,17,42,48,-6,2019
+14,Premier League,Bournemouth,45,38,13,6,19,56,70,-14,2019
+15,Premier League,Burnley,40,38,11,7,20,45,68,-23,2019
+16,Premier League,Southampton,39,38,9,12,17,45,65,-20,2019
+17,Premier League,Brighton,36,38,9,9,20,35,60,-25,2019
+18,Premier League,Cardiff City,34,38,10,4,24,34,69,-35,2019
+19,Premier League,Fulham,26,38,7,5,26,34,81,-47,2019
+20,Premier League,Huddersfield,16,38,3,7,28,22,76,-54,2019
+1,Premier League,Liverpool,99,38,32,3,3,85,33,52,2020
+2,Premier League,Manchester City,81,38,26,3,9,102,35,67,2020
+3,Premier League,Manchester Utd,66,38,18,12,8,66,36,30,2020
+4,Premier League,Chelsea,66,38,20,6,12,69,54,15,2020
+5,Premier League,Leicester City,62,38,18,8,12,67,41,26,2020
+6,Premier League,Tottenham,59,38,16,11,11,61,47,14,2020
+7,Premier League,Wolves,59,38,15,14,9,51,40,11,2020
+8,Premier League,Arsenal,56,38,14,14,10,56,48,8,2020
+9,Premier League,Sheffield Utd,54,38,14,12,12,39,39,0,2020
+10,Premier League,Burnley,54,38,15,9,14,43,50,-7,2020
+11,Premier League,Southampton,52,38,15,7,16,51,60,-9,2020
+12,Premier League,Everton,49,38,13,10,15,44,56,-12,2020
+13,Premier League,Newcastle Utd,44,38,11,11,16,38,58,-20,2020
+14,Premier League,Crystal Palace,43,38,11,10,17,31,50,-19,2020
+15,Premier League,Brighton,41,38,9,14,15,39,54,-15,2020
+16,Premier League,West Ham,39,38,10,9,19,49,62,-13,2020
+17,Premier League,Aston Villa,35,38,9,8,21,41,67,-26,2020
+18,Premier League,Bournemouth,34,38,9,7,22,40,65,-25,2020
+19,Premier League,Watford,34,38,8,10,20,36,64,-28,2020
+20,Premier League,Norwich City,21,38,5,6,27,26,75,-49,2020
+1,Premier League,Manchester City,86,38,27,5,6,83,32,51,2021
+2,Premier League,Manchester Utd,74,38,21,11,6,73,44,29,2021
+3,Premier League,Liverpool,69,38,20,9,9,68,42,26,2021
+4,Premier League,Chelsea,67,38,19,10,9,58,36,22,2021
+5,Premier League,Leicester City,66,38,20,6,12,68,50,18,2021
+6,Premier League,West Ham,65,38,19,8,11,62,47,15,2021
+7,Premier League,Tottenham,62,38,18,8,12,68,45,23,2021
+8,Premier League,Arsenal,61,38,18,7,13,55,39,16,2021
+9,Premier League,Leeds United,59,38,18,5,15,62,54,8,2021
+10,Premier League,Everton,59,38,17,8,13,47,48,-1,2021
+11,Premier League,Aston Villa,55,38,16,7,15,55,46,9,2021
+12,Premier League,Newcastle Utd,45,38,12,9,17,46,62,-16,2021
+13,Premier League,Wolves,45,38,12,9,17,36,52,-16,2021
+14,Premier League,Crystal Palace,44,38,12,8,18,41,66,-25,2021
+15,Premier League,Southampton,43,38,12,7,19,47,68,-21,2021
+16,Premier League,Brighton,41,38,9,14,15,40,46,-6,2021
+17,Premier League,Burnley,39,38,10,9,19,33,55,-22,2021
+18,Premier League,Fulham,28,38,5,13,20,27,53,-26,2021
+19,Premier League,West Brom,26,38,5,11,22,35,76,-41,2021
+20,Premier League,Sheffield Utd,23,38,7,2,29,20,63,-43,2021
+1,Premier League,Manchester City,93,38,29,6,3,99,26,73,2022
+2,Premier League,Liverpool,92,38,28,8,2,94,26,68,2022
+3,Premier League,Chelsea,74,38,21,11,6,76,33,43,2022
+4,Premier League,Tottenham,71,38,22,5,11,69,40,29,2022
+5,Premier League,Arsenal,69,38,22,3,13,61,48,13,2022
+6,Premier League,Manchester Utd,58,38,16,10,12,57,57,0,2022
+7,Premier League,West Ham,56,38,16,8,14,60,51,9,2022
+8,Premier League,Leicester City,52,38,14,10,14,62,59,3,2022
+9,Premier League,Brighton,51,38,12,15,11,42,44,-2,2022
+10,Premier League,Wolves,51,38,15,6,17,38,43,-5,2022
+11,Premier League,Newcastle Utd,49,38,13,10,15,44,62,-18,2022
+12,Premier League,Crystal Palace,48,38,11,15,12,50,46,4,2022
+13,Premier League,Brentford,46,38,13,7,18,48,56,-8,2022
+14,Premier League,Aston Villa,45,38,13,6,19,52,54,-2,2022
+15,Premier League,Southampton,40,38,9,13,16,43,67,-24,2022
+16,Premier League,Everton,39,38,11,6,21,43,66,-23,2022
+17,Premier League,Leeds United,38,38,9,11,18,42,79,-37,2022
+18,Premier League,Burnley,35,38,7,14,17,34,53,-19,2022
+19,Premier League,Watford,23,38,6,5,27,34,77,-43,2022
+20,Premier League,Norwich City,22,38,5,7,26,23,84,-61,2022
+1,Premier League,Manchester City,89,38,28,5,5,94,33,61,2023
+2,Premier League,Arsenal,84,38,26,6,6,88,43,45,2023
+3,Premier League,Manchester Utd,75,38,23,6,9,58,43,15,2023
+4,Premier League,Newcastle Utd,71,38,19,14,5,68,33,35,2023
+5,Premier League,Liverpool,67,38,19,10,9,75,47,28,2023
+6,Premier League,Brighton,62,38,18,8,12,72,53,19,2023
+7,Premier League,Aston Villa,61,38,18,7,13,51,46,5,2023
+8,Premier League,Tottenham,60,38,18,6,14,70,63,7,2023
+9,Premier League,Brentford,59,38,15,14,9,58,46,12,2023
+10,Premier League,Fulham,52,38,15,7,16,55,53,2,2023
+11,Premier League,Crystal Palace,45,38,11,12,15,40,49,-9,2023
+12,Premier League,Chelsea,44,38,11,11,16,38,47,-9,2023
+13,Premier League,Wolves,41,38,11,8,19,31,58,-27,2023
+14,Premier League,West Ham,40,38,11,7,20,42,55,-13,2023
+15,Premier League,Bournemouth,39,38,11,6,21,37,71,-34,2023
+16,Premier League,Nott'ham Forest,38,38,9,11,18,38,68,-30,2023
+17,Premier League,Everton,36,38,8,12,18,34,57,-23,2023
+18,Premier League,Leicester City,34,38,9,7,22,51,68,-17,2023
+19,Premier League,Leeds United,31,38,7,10,21,48,78,-30,2023
+20,Premier League,Southampton,25,38,6,7,25,36,73,-37,2023
